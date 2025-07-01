@@ -1,0 +1,4 @@
+feedparser
+requests
+gspread
+oauth2client
